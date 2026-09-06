@@ -1,0 +1,5 @@
+[12/03/2026] Update Log
+-----------------------------------
+[+] Whitelist system added (Requested by [DRACO])
+[+] Auto-complete support for long usernames (e.g., "toast" -> "toasted_ni")
+[+] Fixed teleport/fling bug during combat
