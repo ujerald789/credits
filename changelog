@@ -1,3 +1,10 @@
+[Sep/08/2026] Update Log
+-----------------------------------
+[+] "Destroy GUI" button added to Settings
+[+] Automatic feature shutdown on UI destruction (stops background loops)
+[!] Fixed hitboxes staying expanded after destroying the menu
+
+
 [Sep/07/2026] Update Log
 -----------------------------------
 [+] Whitelist system added (Requested by [DRACO])
